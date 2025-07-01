@@ -17,5 +17,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Aktie1");
         }
+
+        void Aktie3()
+        {
+            Console.WriteLine("Aktie2");
+        }
     }
 }
