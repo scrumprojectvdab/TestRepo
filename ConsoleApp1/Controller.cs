@@ -11,16 +11,22 @@ namespace ConsoleApp1
 
         void Aktie2()
         {
+
+            Console.WriteLine("Aktie2 gewijzigd");
+
             Console.WriteLine("Aktie2");
+
 
         void Aktie1()
         {
             Console.WriteLine("Aktie1");
+
         }
 
         void Aktie3()
         {
             Console.WriteLine("Aktie2");
+
         }
     }
 }
