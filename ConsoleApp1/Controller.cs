@@ -8,6 +8,11 @@ namespace ConsoleApp1
 {
     internal class Controller
     {
+
+        void Aktie2()
+        {
+            Console.WriteLine("Aktie2");
+
         void Aktie1()
         {
             Console.WriteLine("Aktie1");
